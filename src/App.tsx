@@ -6,9 +6,7 @@ function App() {
       <div className="flex justify-center p-12">
         <div className="flex flex-col gap-5">
           <DropdownMenu />
-          <div className="text-center">test</div>
-          <div>test</div>
-
+          <DropdownMenu />
         </div>
       </div>
     </div>

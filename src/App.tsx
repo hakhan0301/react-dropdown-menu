@@ -1,6 +1,6 @@
 import DropdownMenu from "./components/DropdownMenu";
 
-const longOptions = new Array(5000)
+const longOptions = new Array(50000)
   .fill(0)
   .map((_, index) => `${index}`);
 
